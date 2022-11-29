@@ -1,0 +1,1 @@
+(&not x2 &and &not x1 &and &not x0) &or (&not x2 &and &not x1 &and x0) &or (x2 &and &not x1 &and &not x0) &or (x2 &and x1 &and x0);
